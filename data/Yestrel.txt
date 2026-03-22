@@ -6,7 +6,7 @@ ship "Yestrel"
 	thumbnail "thumbnail/yestrel"
 	attributes
 		category "Heavy Warship"
-		"cost" 14700000
+		"cost" 29400000
 		"shields" 22400
 		"hull" 8700
 		"required crew" 64
