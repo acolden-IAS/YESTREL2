@@ -4,12 +4,13 @@ In accordance with popular demand, Kass. Inc - in collaboration with Tarazed Cor
 
 Why yes, this is the result of incorporating all possible variants of the Kestrel into one, as well as reviving an initial idea for the Weapons Kestrel with **18** gun ports! Kestrel aficionados rejoice!
 
-The Yestrel will be available at Tarazed Shipyard 4 months after you complete the Kestrel mission chain and have a variant of the Kestrel unlocked. Stay tuned for updates from Charles Atinoda, chief ship designer of Tarazed Shipyard!
+The Yestrel will be available at Tarazed Shipyards 4 months after you complete the Kestrel mission chain and have a variant of the Kestrel unlocked. Stay tuned for updates from Charles Atinoda, chief ship designer of Tarazed Shipyards!
 
 As usual, this plugin wouldn't be possible without the help of:
 - Zuckung (troubleshooter, in addition, this plugin was inspired by and based on kestrel.unlocks)
 - Zoura (troubleshooter)
 - timeout.fu (troubleshooter)
+- kaiboy, aka k.AI (sprites)
 
 Made for Endless Sky version 0.10.14
 
